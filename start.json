@@ -1,0 +1,9 @@
+{
+  "daemon": false,
+  "run": [{
+    "method": "shell.start",
+    "params": {
+      "venv": "env"
+     }
+  }]
+}
