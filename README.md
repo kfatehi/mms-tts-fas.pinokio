@@ -4,3 +4,5 @@ unfortunately i could not see a way to tell pinokio to just give me an interacti
 you can see how it activates a shell and do that yourself in a command prompt and then go ahead and use it.
 
 you'll need to install some more pip packages too, see app.py
+
+pinokio tag removed because this is not high quality enough to want to show it in the discovery tab
